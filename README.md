@@ -23,7 +23,7 @@
 3. More language support
 
 ## Screenshots
-<img src="/screenshots/login.png" width="346" height="615" alt="Login"/> 
-<img src="/screenshots/signup.png" width="346" height="615" alt="Signup"/>
-<img src="/screenshots/dashboard.png" width="346" height="615" alt="Dashboard"/>
-<img src="/screenshots/login_fr.png" width="346" height="615" alt="Login - Fr"/>
+<img src="/screenshots/login.png" width="346" alt="Login"/> 
+<img src="/screenshots/signup.png" width="346" alt="Signup"/>
+<img src="/screenshots/dashboard.png" width="346" alt="Dashboard"/>
+<img src="/screenshots/login_fr.png" width="346" alt="Login - Fr"/>
