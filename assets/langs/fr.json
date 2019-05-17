@@ -1,0 +1,20 @@
+{
+  "title": "Firebase Auth",
+  "label_login": "S'identifier",
+  "label_email": "Email",
+  "label_password": "Mot de passe\n",
+  "label_login": "S'identifier",
+  "label_signup_here": "Inscrivez-vous ici",
+  "label_signup": "S'inscrire",
+  "message_enter_email": "S'il vous plaît entrer email",
+  "message_enter_password": "Veuillez entrer le mot de passe",
+  "message_could_not_signup": "Oops! Impossible d'inscrire l'utilisateur. Veuillez réessayer.",
+  "message_email_already_in_use": "L'adresse email est déjà utilisée par un autre compte",
+  "message_invalid_username_or_password": "Email ou mot de passe invalide\n",
+  "label_dashboard": "Tableau de bord",
+  "label_welcome": "Bienvenue",
+  "label_loading": "Chargement...",
+  "label_logout": "Connectez - Out",
+  "label_login_with_google": "Se connecter avec Google",
+  "label_or": "Ou"
+}
